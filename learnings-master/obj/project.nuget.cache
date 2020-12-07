@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sVsss5rF371wRuC+TrsTcfmTcXMKwpo7a5yGrUEufxJ58wNqG0kDeuhNwq0Nl+iospNXc9XCihzlRGWSKMDGEA==",
+  "dgSpecHash": "brRfIH3CrBl5QfxQgAGI5fI6Hdpf4Pjxjm1FsbxRjHiaDF0NejYj3WCALIcRR4wX/wsO/y7CcmnyF5wzMttf4g==",
   "success": true,
-  "projectFilePath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
+  "projectFilePath": "C:\\Users\\Meghana\\Downloads\\learnings-master\\learnings-master\\Dockersampleconfig.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\Meghana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
   "logs": []
 }

@@ -19,3 +19,24 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconf
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.exe
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.deps.json
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.xml
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dockersampleconfig.styles.css
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Meghana\Downloads\learnings-master\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
